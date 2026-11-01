@@ -1,0 +1,12 @@
+﻿# Archivos generados por Keil
+Objects/
+Listings/
+
+# Preferencias locales de Keil
+*.uvguix.*
+*.uvoptx
+
+# Archivos temporales
+*.bak
+*.tmp
+*.log
